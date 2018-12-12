@@ -31,8 +31,9 @@ pkg install php
 pkg install git
 
 git clone https://github.com/Thaniiaa/btc
+
 cd btc
 
-pho mfp.php
+php mfp.php
 
 Thanks to : Muhammad Ikhsan
