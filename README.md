@@ -27,9 +27,12 @@ Copy ID nya aja contoh 12345
 Tutorial cara pakai di termux
 
 pkg install php
+
 pkg install git
+
 git clone https://github.com/Thaniiaa/btc
 cd btc
+
 pho mfp.php
 
 Thanks to : Muhammad Ikhsan
